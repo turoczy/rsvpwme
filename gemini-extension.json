@@ -1,0 +1,10 @@
+{
+  "name": "rsvpwme",
+  "version": "1.0.0",
+  "description": "The rsvp skill and the RSVP w/ me MCP server.",
+  "mcpServers": {
+    "rsvpwme": {
+      "httpUrl": "https://rsvpw.me/mcp"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "rsvpwme",
+  "interface": {
+    "displayName": "RSVP w/ me"
+  },
+  "plugins": [
+    {
+      "name": "rsvpwme",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "rsvpwme",
+  "displayName": "RSVP w/ me",
+  "version": "1.0.0",
+  "description": "The /rsvp skill and the RSVP w/ me MCP server: ask your AI about your events, plans, Likes, friends and follows.",
+  "author": {
+    "name": "RSVP w/ me",
+    "url": "https://rsvpw.me"
+  },
+  "homepage": "https://rsvpw.me",
+  "privacyPolicyUrl": "https://rsvpw.me/privacy",
+  "termsOfServiceUrl": "https://rsvpw.me/terms",
+  "repository": "https://github.com/turoczy/rsvp-ai-skill",
+  "keywords": ["events", "rsvp", "mcp"]
+}

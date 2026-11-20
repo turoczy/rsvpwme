@@ -1,0 +1,15 @@
+{
+  "name": "rsvpwme",
+  "description": "RSVP w/ me for your AI",
+  "owner": {
+    "name": "RSVP w/ me",
+    "url": "https://rsvpw.me"
+  },
+  "plugins": [
+    {
+      "name": "rsvpwme",
+      "source": "./",
+      "description": "The /rsvp skill and the RSVP w/ me MCP server."
+    }
+  ]
+}

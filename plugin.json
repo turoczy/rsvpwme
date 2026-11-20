@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rsvpwme",
+  "version": "1.0.0",
+  "description": "The rsvp skill and the RSVP w/ me MCP server.",
+  "author": {
+    "name": "RSVP w/ me",
+    "url": "https://rsvpw.me"
+  },
+  "homepage": "https://rsvpw.me",
+  "repository": "https://github.com/turoczy/rsvp-ai-skill",
+  "keywords": ["events", "rsvp", "mcp"]
+}
