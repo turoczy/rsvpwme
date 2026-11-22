@@ -6,7 +6,7 @@ The skill is one file: [`skills/rsvp/SKILL.md`](skills/rsvp/SKILL.md).
 
 ## You'll need
 
-- A paid RSVP w/ me plan. Connecting an AI is a paid feature. [See paid plans](https://rsvpw.me/upgrade?reason=ai).
+- An RSVP w/ me account. Connecting your AI to search events is free. Your plans, friends, Inbox and Liking need the paid plan. [See what the paid plan adds](https://rsvpw.me/upgrade?reason=ai).
 - The RSVP w/ me MCP server connected to your AI. The server URL is `https://rsvpw.me/mcp`. When you connect, an rsvpw.me page opens. Sign in there and click Allow. No API key or password to paste.
 
 Your RSVP w/ me settings (Integrations → Connect your AI) have a setup prompt you can paste into your AI, and the skill download.
@@ -21,7 +21,7 @@ Your RSVP w/ me settings (Integrations → Connect your AI) have a setup prompt 
 ## Claude Code
 
 ```
-/plugin marketplace add turoczy/rsvp-ai-skill
+/plugin marketplace add turoczy/rsvpwme
 /plugin install rsvpwme@rsvpwme
 ```
 
@@ -33,7 +33,7 @@ The plugin adds the skill and the RSVP w/ me server. Restart Claude Code, run `/
 2. Add the skill. Skills work in the ChatGPT desktop app and Codex. Either add this repo as a plugin marketplace:
 
    ```
-   codex plugin marketplace add turoczy/rsvp-ai-skill
+   codex plugin marketplace add turoczy/rsvpwme
    ```
 
    then install RSVP w/ me from the Plugins Directory. Or unzip [`rsvp-skill.zip`](dist/rsvp-skill.zip) into `~/.agents/skills/`, so the file ends up at `~/.agents/skills/rsvp/SKILL.md`.
@@ -41,7 +41,7 @@ The plugin adds the skill and the RSVP w/ me server. Restart Claude Code, run `/
 ## Gemini CLI
 
 ```
-gemini extensions install https://github.com/turoczy/rsvp-ai-skill
+gemini extensions install https://github.com/turoczy/rsvpwme
 ```
 
 The extension adds the skill and the RSVP w/ me server. Then run `/mcp auth rsvpwme` to sign in.
