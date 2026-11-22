@@ -8,7 +8,7 @@
       "name": "rsvpwme",
       "source": {
         "source": "local",
-        "path": "./"
+        "path": "./rsvp-skill"
       },
       "policy": {
         "installation": "AVAILABLE",

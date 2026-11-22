@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "rsvpwme",
-      "source": "./",
+      "source": "./rsvp-skill",
       "description": "The /rsvp skill and the RSVP w/ me MCP server."
     }
   ]
