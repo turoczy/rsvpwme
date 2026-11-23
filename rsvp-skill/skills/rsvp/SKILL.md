@@ -22,7 +22,8 @@ Your app may show these names with a prefix (for example `mcp__rsvpwme__search_e
 | One event's details | `get_event` |
 | What am I Going to, what did I Like | `get_my_plans` (`when`: `upcoming` or `past`) |
 | What kinds of events do I go to, which day works best for me | `get_my_history`, then match it against `search_events`. Going there means they said they'd go, not that they attended. |
-| What are my friends going to | `get_friends_going` (close friends come first) |
+| What are my friends going to, is [friend] going to anything this week | `get_friends_going` (close friends come first; `from`/`to` YYYY-MM-DD for a date range). For one friend, look for their name in each event's `friends_going`. |
+| Who do I go to events with most | `get_my_regulars` (friends ranked by past events you both said Going to; `since`/`until` optional) |
 | What's in my Inbox, what needs my attention (invites from friends, follow requests, new followers) | `get_my_inbox` |
 | Who do I follow | `get_my_follows` (people and tags) |
 | What tags can I filter by | `list_tags` |

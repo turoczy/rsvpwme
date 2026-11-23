@@ -14,7 +14,8 @@ It connects through what's called an MCP server, a standard way for AI apps to p
 
 - Events you've Liked or are Going to, and your past events
 - Who you follow (people and tags)
-- Which friends are going
+- Which friends are going, for any dates you name ("Is Cami going to anything this week?")
+- Which friends you most often say you're Going to the same events with
 - Your Inbox: invites, follow requests and notifications
 - Like and un-Like events for you. The Allow page says so when the app asks for it. We tell your AI to Like only when you ask.
 
