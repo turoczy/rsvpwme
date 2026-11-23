@@ -27,4 +27,4 @@ Click **Invite** on any event. You get a few ways to share it:
 - **Copy link**, or post it to Bluesky, Twitter, LinkedIn, Threads, Mastodon or Email. On a phone you also get **Share…** and **Text**.
 - **Send to my agent** copies the event for your AI. See [Connect your AI](connect-your-ai.md).
 
-**Let them follow me** adds your invite link to what you share. Anyone it's forwarded to sees your name when signed in. It starts checked. Uncheck it for one share, or turn the default off in Settings → Privacy & people. To stop links you've already shared, pause your invite link or get a fresh one.
+**Let them follow me** adds your invite link to what you share. Anyone it's forwarded to sees who you are. Signed out, they also see whether you're going, liked it or are interested. It starts checked. Uncheck it for one share, or turn the default off in Settings → Privacy & people. To stop links you've already shared, pause your invite link or get a fresh one.

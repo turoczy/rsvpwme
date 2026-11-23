@@ -5,7 +5,9 @@ You pick how visible you are. Change it any time in Settings → Profile → **P
 ## The three choices
 
 **Private** (free, and where every new account starts)
-Friends only. You pick who sees you and where you're headed. On a free account, only your friends (people you follow who follow you back) see your page. On a paid account, the followers you approve see your profile, and everyone else gets your name and photo.
+Friends only. You pick who sees you and where you're headed. On a free account, only your friends (people you follow who follow you back) see your page. On a paid account with an @handle, the followers you approve see your profile, and everyone else gets your name, photo and @handle.
+
+Some things still show, like your name on invites and events you share. See [What still shows](#what-still-shows) below.
 
 **Anonymous** (free)
 Lurk mode. Nobody can find you. Only mutual friends, and people you follow or ask to follow, see your name. Anything you do while anonymous stays hidden. Even if you go public later.
@@ -26,6 +28,16 @@ Paid accounts are different. With a public account, anyone can see your name and
 ## The one thing anonymous doesn't hide
 
 The people you follow can always see your name. So can people you ask to follow: your name only, no @handle, photo or bio. That's a safety feature. Nobody gets followed by someone they can't identify.
+
+## What still shows
+
+Private and Anonymous close your profile, but some people still see some of it. A few examples:
+
+- Anyone with your invite link sees your name, photo and @handle (if you have one), and so does the preview when the link is pasted into a chat.
+- Anyone who opens an event you shared with **Let them follow me** checked (it starts checked) sees your name. Signed out, they also see whether you're going, liked it or are interested.
+- People you invite by email see your name in the email.
+
+The complete list is [Who sees what](https://rsvpw.me/privacy#who-sees-what) on the privacy page.
 
 ## People search
 
