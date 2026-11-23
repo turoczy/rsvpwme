@@ -32,6 +32,22 @@ The heart is **Like**. Like saves an event so you can find it again.
 
 Both count, separately. So a Like never gets mistaken for someone planning to show up. So RSVPs are actually truly RSVPs. Not just people being nice.
 
+Say Going and you get a little celebration: a burst of confetti and a line naming the friends who are going too. Nobody yet? It says "Don't go it alone! Invite some friends." Not a confetti person? Check **Reduce motion** in Settings → Account to skip confetti and other animations.
+
+Holidays show up in the River as a date to note. You can Like or share one, but there's no Going button.
+
+**Private event** on an event means its source page is private, like a private Luma event. We show what the source page shares, with a link to it for the rest.
+
+## My events
+
+Your own page. Only you see it.
+
+- **Your friends are going**: what your friends are going to, this week and later. **More →** opens the full list ([rsvpw.me/me/friends-going](https://rsvpw.me/me/friends-going)).
+- **Just you so far**: the events you Liked or are Going to that no friend is going to yet, this week and later. **Past events →** opens the ones that are over.
+- In the sidebar: **Invite your friends**, **Invite your agent** (until you've [connected your AI](connect-your-ai.md)), the **Follow up to 3 people** card on a free account (its circles show who's using your 3 spots), and **Your Top 8 friends**.
+
+**Your first days.** Until you mark Going on something, the top of My events helps you get started: popular events this week in your city to Like, a nudge to invite a friend, and when you and a friend both Like the same event, "Go together?" Each part goes away once you've done it.
+
 ## Pick your place
 
 Each place has its own page, like [rsvpw.me/l/seattle](https://rsvpw.me/l/seattle). Search for a city or town to find yours.

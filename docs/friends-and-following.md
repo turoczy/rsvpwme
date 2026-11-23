@@ -22,7 +22,7 @@ Need a spot back? Unfollow someone.
 
 ## Finding people
 
-The search box at the top finds people with paid accounts and an @handle, unless they've opted out. Anonymous accounts, and free accounts without an @handle, can't be found by name. So the easiest way to bring a friend in is your [invite link](inviting.md).
+The search box at the top finds people with an @handle, unless they've opted out. That's paid accounts, plus a few early accounts that got an @handle before there was a paid plan. You can always find your own account, and the people you follow once they've approved you, as long as they have an @handle. Anonymous accounts, and free accounts without an @handle, can't be found by name. So the easiest way to bring a friend in is your [invite link](inviting.md).
 
 ## Your friends
 

@@ -6,6 +6,8 @@ It connects through what's called an MCP server, a standard way for AI apps to p
 
 **Setup steps for each app** (Claude, ChatGPT, Claude Code, Gemini CLI) are on the [front page of this repo](../README.md). Your Settings page also has the address and a copy button: Settings → Integrations → **Connect your AI**.
 
+Until you've connected one, My events also has an **Invite your agent** card in the sidebar with a button to get started.
+
 ## What it can do
 
 **Free:** connecting is free. Your AI can search events, look up an event and browse the tags.
@@ -31,7 +33,7 @@ Click **Deny** and nothing is shared.
 
 ## How many apps
 
-- **Free:** keep 2 AI apps connected at once, and connect up to 3 new ones a day. Connecting a third disconnects one, and the Allow page tells you which.
+- **Free:** keep 2 AI apps connected at once, and connect up to 2 new ones an hour and 3 a day. Reconnecting an app you already have doesn't count. Connecting a third disconnects one, and the Allow page tells you which.
 - **Paid:** keep up to 25 connected at once.
 
 ## When you connect a new app
@@ -40,7 +42,7 @@ We email you. The subject starts "A new app", for example "A new app can see you
 
 ## Seeing and disconnecting
 
-Settings → Integrations → **Connect your AI** lists every connection: its name, what it can do, when it was created and last used. Click **Revoke** to disconnect one, and it stops working. There's also a list of recent agent activity.
+Settings → Integrations → **Connect your AI** lists every connection: its name, what it can do, when it was created and last used. Click **Revoke** to disconnect one, and it stops working. There's also a list of recent agent activity: what your AI changed (like a Like) and any time it hit a limit. Activity older than 30 days is deleted.
 
 Paid accounts can also make up to 5 **tokens for other apps** in the same spot.
 

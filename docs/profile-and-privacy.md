@@ -41,7 +41,7 @@ The complete list is [Who sees what](https://rsvpw.me/privacy#who-sees-what) on 
 
 ## People search
 
-Search finds paid accounts with an @handle. If your account is private, people who find you see only your name, @handle and picture. Don't want to be found? Check **Hide me from people search** in Settings → Privacy & people.
+Search finds accounts with an @handle: paid accounts, plus a few early accounts that got an @handle before there was a paid plan. If your account is private, people who find you see only your name, @handle and picture. Don't want to be found? Check **Hide me from people search** in Settings → Privacy & people. Followers you've approved can still find you.
 
 Anonymous accounts, and free accounts without an @handle, don't show up when someone else searches by name.
 

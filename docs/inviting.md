@@ -12,7 +12,7 @@ Find **Invite your friends** on My events or in Settings → Privacy & people. C
 - Up to 20 people can join through it a day. After that it reopens at midnight.
 - **Pause** stops joins for now. **Get a fresh link** makes a new one, and the old one stops working.
 
-**Invite by email:** in the same panel, type up to 10 addresses a day. We email each one your invite link and don't keep the address.
+**Invite by email:** in the same panel, type up to 10 addresses a day. We email each one your invite link and don't keep the address. We keep only a scrambled fingerprint of it, for 30 days, to enforce the limits.
 
 Anonymous? Someone who joins through your link sees who you are only if you approve them and follow back. Email invites aren't available while you're anonymous, since an invite names who sent it.
 

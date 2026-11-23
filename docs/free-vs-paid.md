@@ -21,6 +21,8 @@ The paid plan is called **Attendee**. It's $9.99 + tax, one time. Pay once. That
 | Connect your AI | Search events. Keep 2 apps connected. | Also your plans and friends, and Liking. Keep up to 25 apps connected. |
 | Paid check by your name | | ✓ |
 
+A few early accounts got an @handle before there was a paid plan. They keep it, their page is private, and they show up in people search like a paid account (and can opt out the same way).
+
 The details live on these pages:
 [Your profile and privacy](profile-and-privacy.md) ·
 [Friends and following](friends-and-following.md) ·
