@@ -4,7 +4,7 @@ Two kinds of invites: your invite link brings someone new to RSVP w/ me, and an 
 
 ## Your invite link
 
-Find **Invite a friend** on My events or in Settings → Privacy & people. Click **Create your invite link**, then copy it and send it however you like.
+Find **Invite your friends** on My events or in Settings → Privacy & people. Click **Create your invite link**, then copy it and send it however you like.
 
 - When someone joins through your link, we let you know so you can make them a friend. If you want. Every join is a follow request you approve.
 - On a free account, someone new who joins through your link doesn't count toward the 3 people either of you can follow.

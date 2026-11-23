@@ -26,7 +26,7 @@ The search box at the top finds people with paid accounts and an @handle, unless
 
 ## Your friends
 
-- **Your Top 8** on My events shows your friends, most active first.
+- **Your Top 8 friends** on My events shows your friends, most active first.
 - **All friends** ([rsvpw.me/me/friends](https://rsvpw.me/me/friends)) lists everyone.
 - Your friends are also listed in Settings → Privacy & people, each with a **Block**. Block anyone to end it. They won't be told.
 
