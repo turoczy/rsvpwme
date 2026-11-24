@@ -52,7 +52,7 @@ Your own page. Only you see it.
 
 Each place has its own page, like [rsvpw.me/l/seattle](https://rsvpw.me/l/seattle). Search for a city or town to find yours.
 
-To make one place your home, go to Settings → Profile → **Default city / region**. The River then opens on your area. Don't see your city? [Pick a place](https://rsvpw.me/l/?pick=1).
+To make one place your home, go to Settings → Profile → **Default city / region**. The River then opens on your area. Haven't set a city? The River opens on Portland. Don't see your city? [Pick a place](https://rsvpw.me/l/?pick=1).
 
 If you're signed in and haven't set a city, the place you pick is saved as your city. It stays hidden on your profile until you choose to show it.
 
