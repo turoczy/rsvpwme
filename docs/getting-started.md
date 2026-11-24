@@ -10,7 +10,7 @@ Events around here are scattered across a bunch of sites. Luma. Eventbrite. Meet
 
 Go to [rsvpw.me](https://rsvpw.me) and sign in with Google. That's the only way in, so there's no password to make. It's free.
 
-The first time, we ask one question: how visible would you like to be? Anonymous, Private or Public. Private is picked for you, and Public is part of a paid account. No wrong answers, and you can switch whenever. [Your profile and privacy](profile-and-privacy.md) explains each one.
+The first time, we ask one question: how visible would you like to be? You pick one of three cards: **I'll remain anonymous**, **I'll take private** (the one we recommend) or **Make my account public**. Public is part of a paid account. On a free account, picking it saves you as Private and takes you to the upgrade page. No wrong answers, and you can switch whenever. [Your profile and privacy](profile-and-privacy.md) explains each one.
 
 The weekly email is on unless you uncheck it. More in [Your Inbox and the weekly email](inbox-and-weekly-email.md).
 
