@@ -44,7 +44,7 @@ Your own page. Only you see it.
 
 - **Your friends are going**: what your friends are going to, this week and later. **More →** opens the full list ([rsvpw.me/me/friends-going](https://rsvpw.me/me/friends-going)).
 - **Just you so far**: the events you Liked or are Going to that no friend is going to yet, this week and later. **Past events →** opens the ones that are over.
-- In the sidebar: **Invite your friends**, **Invite your agent** (until you've [connected your AI](connect-your-ai.md)), the **Follow up to 3 people** card on a free account (its circles show who's using your 3 spots), and **Your Top 8 friends**.
+- In the sidebar: **Invite your friends**, a **Pro tip** for setting up your AI (until you've [connected one](connect-your-ai.md)), the **Follow up to 3 people** card on a free account (its circles show who's using your 3 spots), and **Your Top 8 friends**.
 
 **Your first days.** Until you mark Going on something, the top of My events helps you get started: popular events this week in your city to Like, a nudge to invite a friend, and when you and a friend both Like the same event, "Go together?" Each part goes away once you've done it.
 

@@ -6,7 +6,7 @@ It connects through what's called an MCP server, a standard way for AI apps to p
 
 **Setup steps for each app** (Claude, ChatGPT, Claude Code, Gemini CLI) are on the [front page of this repo](../README.md). Your Settings page also has the address and a copy button: Settings → Integrations → **Connect your AI**.
 
-Until you've connected one, My events also has an **Invite your agent** card in the sidebar with a button to get started.
+Look for the **Pro tip** cards on the River, event pages and My events. Until you've connected an AI, the card has a short message you can copy and paste into it to get set up, plus a button to connect. Once you're connected, it first offers a message that installs the RSVP w/ me skill, then a different question to ask your AI each time you visit. Click **Copy** to grab just the text in the box. On an event page it includes the event's name and link. Close any card with ×.
 
 ## What it can do
 
