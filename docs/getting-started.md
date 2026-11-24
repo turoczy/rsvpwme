@@ -28,7 +28,7 @@ There's a search box at the top too. Missing an event? [Tell us](https://rsvpw.m
 
 The heart is **Like**. Like saves an event so you can find it again.
 
-**Going** says you're planning to be there.
+**Going** says you're planning to be there. It also opens the event's own page (Luma, Meetup, Eventbrite and so on) in a new tab, so you can register there too. If that page isn't on a site we know, you'll see a heads-up first.
 
 Both count, separately. So a Like never gets mistaken for someone planning to show up. So RSVPs are actually truly RSVPs. Not just people being nice.
 
