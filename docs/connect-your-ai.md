@@ -25,6 +25,32 @@ It can't change anything else.
 
 On a free account, if you ask for something that needs the paid plan, your AI gets a short note saying so and keeps helping with search. The note has your own link to the paid plan (a one-time price, no subscription). It works for 30 minutes and goes straight to checkout, with no sign-in. When you've paid, the page says you're all set. If your AI still says "paid plan," start a new chat.
 
+## Things to ask
+
+Ask the way you'd ask a friend. A few to start with:
+
+**Anyone (free):**
+
+- "What's happening in Portland this weekend?"
+- "Find me a free meetup next week."
+- "What's the most popular event this week?"
+- "Any AI or startup events in Seattle next month?"
+- "What kinds of events can you search for?"
+- "Tell me about this event: https://rsvpw.me/events/…" (paste any event link)
+
+**Paid:**
+
+- "What am I up to this weekend?"
+- "What did I Like that's coming up?"
+- "Are any of my friends going to something this week?"
+- "Is Cami going to anything Friday?"
+- "Who do I go to events with most?"
+- "What kinds of events do I usually go to?"
+- "Find me upcoming events like the ones I usually go to."
+- "Anything in my Inbox I need to answer?"
+- "Who am I following?"
+- "Like the first two." (after a search, so it knows which ones)
+
 ## The Allow page
 
 When you connect, you see what the app is asking for, and where you'll be sent after. If you don't recognize that address, don't allow this. Some apps say **Unverified app**. That means RSVP w/ me hasn't checked who made it.
