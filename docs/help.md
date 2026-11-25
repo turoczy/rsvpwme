@@ -42,7 +42,10 @@ Check your spam folder. Then add our sending address to your contacts, so it lan
 ### Notifications
 
 **Can RSVP w/ me buzz my phone?**
-On a paid account, yes: friend invites and day-before reminders. Settings → Notifications. On iPhone, add RSVP w/ me to your Home Screen first. See [Notifications](inbox-and-weekly-email.md#notifications).
+On a paid account, yes: friend invites and day-before reminders (reminders only on an Anonymous account), not sent between 10pm and 8am your time. Settings → Notifications, or **Turn on notifications** on your Inbox's Invites tab. On iPhone, sign in in Safari, then add RSVP w/ me to your Home Screen first. See [Notifications](inbox-and-weekly-email.md#notifications).
+
+**A notification button said something I don't understand.**
+Every message and what to do about it is [here](inbox-and-weekly-email.md#what-the-buttons-might-say).
 
 **"Send a test" says Sent, but nothing shows up.**
 It reached your device. Your device's notification settings are hiding it: check them, plus Focus or Do Not Disturb. The steps are [here](inbox-and-weekly-email.md#the-test-said-sent-but-nothing-showed-up).
