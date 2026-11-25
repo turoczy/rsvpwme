@@ -16,7 +16,7 @@ Look for the **Pro tip** cards on the River, event pages and My events. Until yo
 
 - Events you've Liked or are Going to, and your past events
 - Who you follow (people and tags)
-- Which friends are going, for any dates you name ("Is Cami going to anything this week?")
+- Which friends are going, for any dates you name ("Is my friend Stephen going to anything on Friday?")
 - Which friends you most often say you're Going to the same events with
 - Your Inbox: invites, follow requests and notifications
 - Like and un-Like events for you. The Allow page says so when the app asks for it. We tell your AI to Like only when you ask.
@@ -43,7 +43,7 @@ Ask the way you'd ask a friend. A few to start with:
 - "What am I up to this weekend?"
 - "What did I Like that's coming up?"
 - "Are any of my friends going to something this week?"
-- "Is Cami going to anything Friday?"
+- "Is my friend Stephen going to anything on Friday?"
 - "Who do I go to events with most?"
 - "What kinds of events do I usually go to?"
 - "Find me upcoming events like the ones I usually go to."
