@@ -40,3 +40,24 @@ RSVP w/ me will never ask for your Google password.
 One more email setting: **Activity emails** sends you a note when someone creates an account from your invite, whether that's your invite link or an email invite. Something like "Stephen joined RSVP w/ me from your invite." That's the only one. No emails about events.
 
 It's on by default. Turn it off in Settings → Calendar & email, or with the link at the bottom of the email itself. That link turns off Activity emails only. Your weekly email keeps coming.
+
+## Notifications
+
+On a paid account, RSVP w/ me can buzz your phone or computer. Two kinds, and only the ones you switch on:
+
+- **Friend invites.** When a friend invites you to something. Invites that come in overnight wait until 8am.
+- **Day-before reminders.** Around 5pm Pacific the day before anything you're Going to. One buzz, even on a busy day. (Likes don't count.)
+
+Turn them on in Settings → Notifications: pick the kinds, then **Turn on for this device** on each phone or computer you want them on. **Send a test** checks that it works. **Turn off for this device** or **Remove** stops them.
+
+### On iPhone or iPad
+
+On iPhone or iPad, notifications only work from the Home Screen. (Apple's rule, not ours.)
+
+1. In Safari, tap Share, then **Add to Home Screen**.
+2. Open RSVP w/ me from there and sign in again.
+3. Turn them on in Settings.
+
+Opened from your Home Screen, RSVP w/ me runs without the address bar. That's normal.
+
+**If your browser blocks them:** allow notifications for rsvpw.me in its settings, then come back to Settings.

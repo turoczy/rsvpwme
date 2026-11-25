@@ -26,7 +26,7 @@ No. You sign in with your Google account.
 No. RSVP w/ me will never ask for your Google password. Some event links open on other sites, like the page where you register. If one of those asks for your Google password, don't type it in. That page isn't ours.
 
 **How do I sign out everywhere?**
-Settings → Account → **Sign out everywhere**. It signs you out on every browser and device, including the one you're on, gives the weekly email a new unsubscribe link, and gives your calendar feed a new address. (If you use the feed, re-add the new address to your calendar app.)
+Settings → Account → **Sign out everywhere**. It signs you out on every browser and device, including the one you're on, gives the weekly email a new unsubscribe link, gives your calendar feed a new address, and stops notifications on every device. (If you use the feed, re-add the new address to your calendar app.)
 
 **How do I delete my account?**
 Go to Settings and use **Delete account**, in the Danger zone at the bottom. You'll type DELETE to confirm. You can delete your account any time, and it can't be undone. Want your data first? **Download my data** is in Settings → Account. If you'd rather we delete it for you, email rick@piepdx.com.

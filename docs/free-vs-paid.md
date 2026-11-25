@@ -18,6 +18,7 @@ The paid plan is called **Attendee**. It's $9.99 + tax, one time. Pay once. That
 | Private calendar feed | | ✓ |
 | Add events to the site, one at a time | | ✓ |
 | Weekly email | Your week, plus what your friends are going to | Also what your friends Liked |
+| Notifications on your phone or computer | | Friend invites and day-before reminders |
 | Connect your AI | Search events. Keep 2 apps connected. | Also your plans and friends, and Liking. Keep up to 25 apps connected. |
 | Paid check by your name | | ✓ |
 
