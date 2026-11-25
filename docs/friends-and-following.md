@@ -1,6 +1,6 @@
 # Friends and following
 
-Follow = one way. Friend = you follow each other and see each other's plans. Close friend = a friend you've starred (paid).
+Follow = one way. Friend = you follow each other and see each other's plans. Close friend = a friend you've starred (paid). Connect dots = introducing two of your friends to each other (paid).
 
 ## Following someone
 
@@ -47,6 +47,27 @@ The search box at the top finds people with an @handle, unless they've opted out
 ## Close friends (paid)
 
 Click **☆ Close friend** on a friend to see the events they're going to first. They lead **Your friends are going** on My events, and they come first in your weekly email's friends' picks. Only you see who you marked. Star them on their profile or on your friends page.
+
+## Connect dots (paid)
+
+Know two people who should know each other? Introduce them.
+
+**Connect dots** is on the **Your Top 8 friends** card on My events, and on a friend's page. Pick who, pick who they should meet, and tap **Introduce them**. Both of them get a note in their [Inbox](inbox-and-weekly-email.md):
+
+> Stephen Green (@stephen) thought that you might want to connect with Ann Lee. No obligation. Just working to connect dots in the community.
+
+That's the whole message. Nobody gets to add their own.
+
+From there it's ordinary friending. Each of them can **Follow** the other (a follow or a request, same as always) or tap **Not now**. Follow each other and they're friends. You're never told who followed, who passed, or whether anyone opened it. On a free account, a follow from an introduction uses one of your 3 spots, like any follow.
+
+The rules, so it stays a nice thing:
+
+- **Only your friends.** Both people have to be your friends already: you follow each other. You can't introduce someone you only follow, or a stranger.
+- **Once per pair, ever.** If someone else already introduced those two, yours doesn't go through. You won't be told.
+- **A few a day.** Up to 10 introductions a day. Each person gets at most 20 a month, and at most 5 a month from any one friend.
+- **It just doesn't happen when it shouldn't.** No note goes out if either person is Anonymous, is hidden from people search, has turned introductions off, or has blocked or muted the other (or you). Same if they already follow each other. Either way, you see the same "Sent."
+
+**Don't want introductions?** Settings → **Introductions**, uncheck "Friends can introduce me to their friends." Or tap **Turn off introductions** on any introduction in your Inbox. That stops new ones to you, hides any that are waiting, and means nobody can introduce you to anyone else either. Nobody is told you turned it off. Free or paid, anyone can turn it off.
 
 ## Paid check
 

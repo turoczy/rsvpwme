@@ -15,6 +15,7 @@ The paid plan is called **Attendee**. It's $9.99 + tax, one time. Pay once. That
 | Invite friends to events | ✓ | ✓ |
 | Follow event tags | | ✓ |
 | Close friends | | ✓ |
+| Connect dots: introduce two of your friends | Get introduced (and turn it off) | ✓ |
 | Private calendar feed | | ✓ |
 | Add events to the site, one at a time | | ✓ |
 | Weekly email | Your week, plus what your friends are going to | Also what your friends Liked |
