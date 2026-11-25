@@ -12,7 +12,7 @@ Go to [rsvpw.me](https://rsvpw.me) and sign in with Google. That's the only way 
 
 The first time, we ask one question: how visible would you like to be? You pick one of three cards: **I'll remain anonymous**, **I'll take private** (the one we recommend) or **Make my account public**. Public is part of a paid account. On a free account, picking it saves you as Private and takes you to the upgrade page. No wrong answers, and you can switch whenever. [Your profile and privacy](profile-and-privacy.md) explains each one.
 
-The weekly email is on unless you uncheck it. More in [Your Inbox and the weekly email](inbox-and-weekly-email.md).
+The weekly email is on unless you uncheck it. It lands Sunday night: your week ahead, plus what your friends picked. More in [Your Inbox and the weekly email](inbox-and-weekly-email.md).
 
 ## Finding your way around
 
@@ -22,7 +22,9 @@ The top of the page has three links once you're signed in:
 - **My events**: your own page. Only you can see it. It shows what your friends are going to, what you've picked, and your past events.
 - **Inbox**: invites, follow requests, and anything else that needs you.
 
-There's a search box at the top too. Missing an event? [Tell us](https://rsvpw.me/tell-us).
+There's a search box at the top too. It looks through events, venues, topics and people, so "happy hour," a venue name or a friend's name all work. Missing an event? [Tell us](https://rsvpw.me/tell-us).
+
+**Settings** is behind your picture in the top corner. If that opens your profile, click **⚙️ Settings** there.
 
 ## Like and Going
 
@@ -31,6 +33,8 @@ The heart is **Like**. Like saves an event so you can find it again.
 **Going** says you're planning to be there. It also opens the event's own page (Luma, Meetup, Eventbrite and so on) in a new tab, so you can register there too. If that page isn't on a site we know, you'll see a heads-up first.
 
 Both count, separately. So a Like never gets mistaken for someone planning to show up. So RSVPs are actually truly RSVPs. Not just people being nice.
+
+Here's how that plays out. You spot a Thursday happy hour that might work. Like it. It's on your list now, and nobody thinks you've committed. Thursday morning you know you can make it? Click **Going**.
 
 Say Going and you get a little celebration: a burst of confetti and a line naming the friends who are going too. Nobody yet? It says "Don't go it alone! Invite some friends." Not a confetti person? Check **Reduce motion** in Settings → Account to skip confetti and other animations.
 
@@ -43,8 +47,8 @@ Holidays show up in the River as a date to note. You can Like or share one, but 
 Your own page. Only you see it.
 
 - **Your friends are going**: what your friends are going to, this week and later. **More →** opens the full list ([rsvpw.me/me/friends-going](https://rsvpw.me/me/friends-going)).
-- **Just you so far**: the events you Liked or are Going to that no friend is going to yet, this week and later. **Past events →** opens the ones that are over.
-- In the sidebar: **Invite your friends**, a **Pro tip** for setting up your AI (until you've [connected one](connect-your-ai.md)), the **Follow up to 3 people** card on a free account (its circles show who's using your 3 spots), and **Your Top 8 friends**.
+- **This week — just you so far** and **Later: just you so far**: the events you Liked or are Going to that no friend is going to yet. The Later list has a **Show** switch: All, Going or Liked. **Past events →** opens the ones that are over.
+- In the sidebar: **Invite your friends**, a **Pro tip** for setting up your AI (until you've [connected one](connect-your-ai.md)), the **Follow up to 3 people** card on a free account (its circles show who's using your 3 spots), **Your Top 8 friends**, and **Calendar feed**. Paid accounts also get **Add events from anywhere** ([Adding events](adding-events.md)).
 
 **Your first days.** Until you mark Going on something, the top of My events helps you get started: popular events this week in your city to Like, a nudge to invite a friend, and when you and a friend both Like the same event, "Go together?" Each part goes away once you've done it.
 
@@ -52,7 +56,7 @@ Your own page. Only you see it.
 
 Each place has its own page, like [rsvpw.me/l/seattle](https://rsvpw.me/l/seattle). Search for a city or town to find yours.
 
-To make one place your home, go to Settings → Profile → **Default city / region**. The River then opens on your area. Haven't set a city? The River opens on Portland. Don't see your city? [Pick a place](https://rsvpw.me/l/?pick=1).
+To make one place your home, go to Settings → Profile → **Default city**. The River then opens on your area. Haven't set a city? The River opens on Portland. Don't see your city? [Pick a place](https://rsvpw.me/l/?pick=1).
 
 If you're signed in and haven't set a city, the place you pick is saved as your city. It stays hidden on your profile until you choose to show it.
 

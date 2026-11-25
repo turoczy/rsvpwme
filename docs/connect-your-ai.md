@@ -44,6 +44,7 @@ Ask the way you'd ask a friend. A few to start with:
 - "What did I Like that's coming up?"
 - "Are any of my friends going to something this week?"
 - "Is my friend Stephen going to anything on Friday?"
+- "Two things Thursday night. Which one has more of my friends going?" (close friends count first)
 - "Who do I go to events with most?"
 - "What kinds of events do I usually go to?"
 - "Find me upcoming events like the ones I usually go to."
