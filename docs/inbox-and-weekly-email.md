@@ -1,4 +1,4 @@
-# Your Inbox and the weekly email
+# Your Inbox, the weekly email and notifications
 
 ## The Inbox
 
@@ -48,16 +48,46 @@ On a paid account, RSVP w/ me can buzz your phone or computer. Two kinds, and on
 - **Friend invites.** When a friend invites you to something. Invites that come in overnight wait until 8am.
 - **Day-before reminders.** Around 5pm Pacific the day before anything you're Going to. One buzz, even on a busy day. (Likes don't count.)
 
-Turn them on in Settings → Notifications: pick the kinds, then **Turn on for this device** on each phone or computer you want them on. **Send a test** checks that it works. **Turn off for this device** or **Remove** stops them.
+### Turning them on
+
+It's two steps, and they're separate on purpose. The kinds are for your account. The device is, well, the device.
+
+1. Go to Settings → Notifications. Check **Friend invites**, **Day-before reminders**, or both.
+2. On each phone or computer you want buzzed, tap **Turn on for this device**. Your browser asks if RSVP w/ me can send notifications. Say yes.
+
+(Checked the boxes but forgot to hit **Save**? Turning on the device saves them for you.)
+
+Then tap **Send a test**. You should get "Testing, testing. Is this thing on?"
+
+**Turn off for this device** stops them on the one you're holding. Every device you've turned on is listed below that, each with a **Remove** button. And **Sign out everywhere** stops them on all of them.
 
 ### On iPhone or iPad
 
 On iPhone or iPad, notifications only work from the Home Screen. (Apple's rule, not ours.)
 
-1. In Safari, tap Share, then **Add to Home Screen**.
-2. Open RSVP w/ me from there and sign in again.
-3. Turn them on in Settings.
+1. In Safari, tap Share, then **Add to Home Screen**. Leave **Open as Web App** switched on.
+2. Open RSVP w/ me from the new icon on your Home Screen, not from Safari, and sign in again.
+3. Settings → Notifications → **Turn on for this device**, then **Allow**.
 
 Opened from your Home Screen, RSVP w/ me runs without the address bar. That's normal.
+
+### The test said "Sent," but nothing showed up
+
+Then it reached your device, and your device decided to keep quiet about it. That's a setting on your end, not ours:
+
+- **iPhone or iPad:** Settings → Notifications → **RSVP w/ me**. Turn on Allow Notifications, plus Lock Screen, Notification Center and Banners. (It only shows up in that list after you've said yes once.)
+- **Mac:** System Settings → Notifications → your browser (Chrome, Safari, whichever). Same idea.
+- **Windows:** Settings → System → Notifications → your browser.
+- **Focus or Do Not Disturb:** if one's on, add RSVP w/ me (or your browser) to its allowed list.
+- **Scheduled Summary** (iPhone): it can hold notifications for later instead of showing them now.
+
+Also worth a peek: pull down for Notification Center. The test might already be sitting there.
+
+### What "Send a test" might say
+
+- **"Sent. Nothing showing up? …"** It went out. See above.
+- **"Too many tries for now. Try again later."** Tests are limited. Give it a while.
+- **"This page went stale. Reload it and try again."** You've been signed out, or the page is old. Reload.
+- **"This device isn't set up for notifications anymore. Turn it on again."** Your browser or phone dropped the connection. Tap **Turn on for this device** again.
 
 **If your browser blocks them:** allow notifications for rsvpw.me in its settings, then come back to Settings.

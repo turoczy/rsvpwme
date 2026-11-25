@@ -39,6 +39,14 @@ Settings → Calendar & email. Uncheck **Weekly email** and click **Save**. Or u
 **The weekly email isn't showing up.**
 Check your spam folder. Then add our sending address to your contacts, so it lands in your inbox. Settings → Calendar & email shows the address, with a link to add it.
 
+### Notifications
+
+**Can RSVP w/ me buzz my phone?**
+On a paid account, yes: friend invites and day-before reminders. Settings → Notifications. On iPhone, add RSVP w/ me to your Home Screen first. See [Notifications](inbox-and-weekly-email.md#notifications).
+
+**"Send a test" says Sent, but nothing shows up.**
+It reached your device. Your device's notification settings are hiding it: check them, plus Focus or Do Not Disturb. The steps are [here](inbox-and-weekly-email.md#the-test-said-sent-but-nothing-showed-up).
+
 ### Following and paid
 
 **It won't let me follow anyone else.**

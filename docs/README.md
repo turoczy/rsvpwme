@@ -6,7 +6,7 @@ How to use [RSVP w/ me](https://rsvpw.me): every event you care about, in one pl
 2. [Your profile and privacy](profile-and-privacy.md): Private, Anonymous and Public, and who sees what
 3. [Friends and following](friends-and-following.md): follows, friends, follow requests and Close friends
 4. [Inviting people](inviting.md): your invite link, and inviting friends to an event
-5. [Your Inbox and the weekly email](inbox-and-weekly-email.md)
+5. [Your Inbox, the weekly email and notifications](inbox-and-weekly-email.md): notifications are paid
 6. [Adding events](adding-events.md) (paid)
 7. [Your calendar feed](calendar-feed.md) (paid)
 8. [Connect your AI](connect-your-ai.md): ask Claude or ChatGPT what's happening
