@@ -23,7 +23,7 @@ Look for the **Pro tip** cards on the River, event pages and My events. Until yo
 
 It can't change anything else.
 
-On a free account, if you ask for something that needs the paid plan, your AI gets a short note saying so and keeps helping with search.
+On a free account, if you ask for something that needs the paid plan, your AI gets a short note saying so and keeps helping with search. The note has your own link to the paid plan (a one-time price, no subscription). It works for 30 minutes and goes straight to checkout, with no sign-in. When you've paid, the page says you're all set. If your AI still says "paid plan," start a new chat.
 
 ## The Allow page
 
