@@ -74,5 +74,6 @@ Your blocks are listed in Settings → Privacy & people under **Blocked users**,
 
 - **Download my data** (Settings → Account) gives you everything we hold about your account as one file.
 - **Delete account** is in the Danger zone at the bottom of Settings. You'll type DELETE to confirm. It can't be undone.
+- **Introduction attempts** (when you try to [introduce two friends](friends-and-following.md#connect-dots)) are kept for two days, to enforce the daily limit. Then a daily cleanup deletes them.
 
 The full details are in the [Privacy Policy](https://rsvpw.me/privacy).
