@@ -58,14 +58,15 @@ Know two people who should know each other? Introduce them.
 
 That's the whole message. Nobody gets to add their own.
 
-From there it's ordinary friending. Each of them can **Follow** the other (a follow or a request, same as always) or tap **Not now**. Follow each other and they're friends. You're never told who followed, who passed, or whether anyone opened it. On a free account, a follow from an introduction uses one of your 3 spots, like any follow.
+From there it's ordinary friending. Either of them can tap **Follow** (a follow or a request, same as always) or **Not now**. Once one of them follows the other, both notes go away for good. The other person sees the usual follow request or new-follower notice, and can follow back from there. You're never told who followed, who passed, or whether anyone opened it. On a free account, a follow from an introduction uses one of your 3 spots, like any follow.
 
 The rules, so it stays a nice thing:
 
 - **Only your friends.** Both people have to be your friends already: you follow each other. You can't introduce someone you only follow, or a stranger.
 - **Once per pair, ever.** If someone else already introduced those two, yours doesn't go through. You won't be told, and it won't show up in your [data download](help.md) either. It still counts toward your 10 for the day.
+- **Only people who can be found.** You'll only see introductions to people who can be found by name on RSVP w/ me. If the other person can't be, you won't get a note about them (they still get theirs about you, and can follow you).
 - **A few a day.** Up to 10 introductions a day. Each person gets at most 20 a month, and at most 5 a month from any one friend.
-- **It just doesn't happen when it shouldn't.** No note goes out if either person is Anonymous, is hidden from people search, has turned introductions off, or has blocked or muted the other (or you). Same if they already follow each other. Either way, you see the same "Sent."
+- **It just doesn't happen when it shouldn't.** No note goes out if either person is Anonymous, is hidden from people search, has turned introductions off, or has blocked or muted the other (or you). Same if either already follows the other, or has asked to. Either way, you see the same "Sent."
 
 **Don't want introductions?** Settings → **Introductions**, uncheck "Friends can introduce me to their friends." Or tap **Turn off introductions** on any introduction in your Inbox. That stops new ones to you, hides any that are waiting, and means nobody can introduce you to anyone else either. Nobody is told you turned it off. Free or paid, anyone can turn it off.
 
