@@ -15,7 +15,7 @@ A couple of things about requests:
 
 ## Follow requests
 
-When someone wants to follow you, it lands in your [Inbox](inbox-and-weekly-email.md) under **Follow requests**. You can **Approve** or **Decline**. Declining is quiet. They aren't told.
+When someone wants to follow you, it lands in your [Inbox](inbox-and-weekly-email.md) under **Invites**, along with friends' event invites and introductions. You can **Approve** or **Decline**. Declining is quiet. They aren't told.
 
 **Approve** is one way: they follow you, you don't follow them. If they joined through your invite link, you also get **Approve and follow back**, which makes you friends in one click. If that account is brand new, or uses the same name as someone you already know, you get one extra "is it really them?" check first.
 
@@ -52,7 +52,7 @@ Click **☆ Close friend** on a friend to see the events they're going to first.
 
 Know two people who should know each other? Introduce them.
 
-**Connect dots** is on the **Your Top 8 friends** card on My events, and on a friend's page. Pick who, pick who they should meet, and tap **Introduce them**. Both of them get a note in their [Inbox](inbox-and-weekly-email.md):
+**Connect dots** is on the **Your Top 8 friends** card on My events, and on a friend's page. Pick who, pick who they should meet, and tap **Introduce them**. Both of them get a note on the Invites tab of their [Inbox](inbox-and-weekly-email.md):
 
 > Stephen Green (@stephen) thought that you might want to connect with Ann Lee. No obligation. Just working to connect dots in the community.
 
