@@ -18,7 +18,7 @@ Look for the **Pro tip** cards on the River, event pages and My events. Until yo
 - Who you follow (people and tags)
 - Which friends are going, for any dates you name ("Is my friend Stephen going to anything on Friday?")
 - Which friends you most often say you're Going to the same events with
-- Your Inbox: invites, follow requests and notifications
+- Your Inbox: invites, follow requests, notifications and introductions from friends who think you should meet someone (it can read them, not send them)
 - Like and un-Like events for you. The Allow page says so when the app asks for it. We tell your AI to Like only when you ask.
 
 It can't change anything else.

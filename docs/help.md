@@ -58,6 +58,12 @@ Free accounts follow up to 3 people. Unfollowing someone frees up a spot, and ne
 **Why can't I make my profile Public?**
 Public is part of the paid plan. Free accounts can be Private or Anonymous. See [Your profile and privacy](profile-and-privacy.md).
 
+**A friend introduced me to someone. Do I have to do anything?**
+No. Follow them if you'd like to, or tap **Not now**. Your friend isn't told either way. See [Connect dots](friends-and-following.md#connect-dots-paid).
+
+**How do I stop introductions?**
+Settings → **Introductions**, or **Turn off introductions** on any one in your Inbox. Nobody is told.
+
 **Is the paid plan a subscription?**
 No. It's $9.99 + tax, one time. See [Free vs paid](free-vs-paid.md).
 

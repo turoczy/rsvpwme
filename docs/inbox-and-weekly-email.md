@@ -2,11 +2,12 @@
 
 ## The Inbox
 
-Invites, follow requests, and anything else that needs you. Click **Inbox** at the top of the page. A dot next to it means something's new. It has four tabs:
+Invites, follow requests, and anything else that needs you. Click **Inbox** at the top of the page. A dot next to it means something's new. It has five tabs:
 
-- **All**: everything waiting on you (invites and follow requests).
+- **All**: everything waiting on you (invites, follow requests and introductions).
 - **Follow requests**: people who want to follow you. Approve or Decline. Someone who joined through your invite link also gets **Approve and follow back**. See [Friends and following](friends-and-following.md).
 - **Invites**: events your friends invited you to. Answer **I'm in**, **Maybe** or **Can't**. I'm in marks you Going. This tab also lists the invites you sent, with each friend's answer (or "No answer yet"). Only you see those.
+- **Introductions**: a friend thinks you should meet one of their friends. Tap **Follow** to follow them the usual way, or **Not now** to let it go. The friend who introduced you isn't told either way. **Turn off introductions** stops them altogether. See [Connect dots](friends-and-following.md#connect-dots-paid).
 - **Notifications**: what happened with your people. For example:
   - "Stephen followed you," with a **Follow back** button. Follow back and you're friends.
   - "You and Stephen are now friends."
@@ -23,7 +24,7 @@ When nothing needs you: "All caught up. Nothing needs you right now."
 
 A short note on Sunday night: your week ahead (Monday through Sunday), plus what your friends are going to. The subject starts with the week, like "Week of Nov 30, 2026". It holds:
 
-- What's waiting in your Inbox, if anything: a count of follow requests and of followers you haven't followed back yet.
+- What's waiting in your Inbox, if anything: a count of follow requests, of followers you haven't followed back yet, and of introductions from friends. Just counts. No names.
 - Your friends' picks: things your friends are going to this week that you haven't Liked or said you're Going to yet. On a paid account, also the ones they Liked, and your close friends' picks come first.
 - Events you're Going to this week, and events you Liked, with which friends are coming along.
 
