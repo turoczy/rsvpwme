@@ -8,7 +8,7 @@ Invites, follow requests, and anything else that needs you. Click **Inbox** at t
 - **Invites**: everything someone has asked of you, in one list:
   - **Event invites** from friends. Answer **I'm in**, **Maybe** or **Can't**. I'm in marks you Going. This tab also lists the invites you sent, with each friend's answer (or "No answer yet"). Only you see those.
   - **Follow requests**: people who want to follow you. Approve or Decline. Someone who joined through your invite link also gets **Approve and follow back**. See [Friends and following](friends-and-following.md).
-  - **Introductions**: a friend thinks you should meet one of their friends. Tap **Follow** to follow them the usual way, or **Not now** to let it go. The friend who introduced you isn't told either way. **Turn off introductions** stops them altogether. See [Connect dots](friends-and-following.md#connect-dots-paid).
+  - **Introductions**: a friend thinks you should meet one of their friends. Tap **Follow** to follow them the usual way, or **Not now** to let it go. The friend who introduced you isn't told either way. **Turn off introductions** stops them altogether. See [Connect dots](friends-and-following.md#connect-dots).
 - **Notifications**: what happened with your people. For example:
   - "Stephen followed you," with a **Follow back** button. Follow back and you're friends.
   - "You and Stephen are now friends."

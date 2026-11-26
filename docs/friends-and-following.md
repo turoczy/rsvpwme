@@ -1,6 +1,6 @@
 # Friends and following
 
-Follow = one way. Friend = you follow each other and see each other's plans. Close friend = a friend you've starred (paid). Connect dots = introducing two of your friends to each other (paid).
+Follow = one way. Friend = you follow each other and see each other's plans. Close friend = a friend you've starred (paid). Connect dots = introducing two of your friends to each other (paid to introduce; anyone can be introduced).
 
 ## Following someone
 
@@ -39,7 +39,7 @@ The search box at the top finds people with an @handle, unless they've opted out
 
 ## Your friends
 
-- **Your Top 8 friends** on My events shows your friends, most active first (the most Likes and Going over the last 90 days).
+- **Your Top 8 friends** on My events shows round photos of your friends, four across in two rows, with first names under them. Most active first (the most Likes and Going over the last 90 days).
 - **All friends** ([rsvpw.me/me/friends](https://rsvpw.me/me/friends)) lists everyone.
 - Click a friend to see what they're going to. That works even when they're on a free account with no @handle: you get a private page for them that only you can open.
 - Your friends are also listed in Settings → Privacy & people, each with a **Block**. Block anyone to end it. They won't be told.
@@ -48,11 +48,13 @@ The search box at the top finds people with an @handle, unless they've opted out
 
 Click **☆ Close friend** on a friend to see the events they're going to first. They lead **Your friends are going** on My events, and they come first in your weekly email's friends' picks. Only you see who you marked. Star them on their profile or on your friends page.
 
-## Connect dots (paid)
+## Connect dots
 
 Know two people who should know each other? Introduce them.
 
-**Connect dots** is on the **Your Top 8 friends** card on My events, and on a friend's page. Pick who, pick who they should meet, and tap **Introduce them**. Both of them get a note on the Invites tab of their [Inbox](inbox-and-weekly-email.md):
+Introducing is part of a paid account. Being introduced is free for everyone.
+
+Tap the **Connect dots** button (the small one with two checkmarks). It's next to **All friends →** under **Your Top 8 friends** on My events, and on a friend's page. A window opens with two boxes, **Who?** and **should meet…**. Type @ and a friend's name in each, then pick them from the suggestions. One friend per box, and someone you picked in one box isn't offered in the other. Only friends you can introduce show up. **Introduce them** turns on once both boxes are filled. Both of them get a note on the Invites tab of their [Inbox](inbox-and-weekly-email.md):
 
 > Stephen Green (@stephen) thought that you might want to connect with Ann Lee. No obligation. Just working to connect dots in the community.
 
