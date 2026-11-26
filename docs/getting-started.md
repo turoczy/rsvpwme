@@ -30,7 +30,7 @@ There's a search box at the top too. It looks through events, venues, topics and
 
 The heart is **Like**. Like saves an event so you can find it again.
 
-**Going** says you're planning to be there. It also opens the event's own page (Luma, Meetup, Eventbrite and so on) in a new tab, so you can register there too. If that page isn't on a site we know, you'll see a heads-up first.
+**Going** says you're planning to be there. It also opens the event's own page (Luma, Meetup, Eventbrite and so on) in a new tab, so you can register there too. That happens the first time you say Going to an event in that browser; if you take it back and say Going again, no new tab opens. If that page isn't on a site we know, you'll see a heads-up first.
 
 Both count, separately. So a Like never gets mistaken for someone planning to show up. So RSVPs are actually truly RSVPs. Not just people being nice.
 
