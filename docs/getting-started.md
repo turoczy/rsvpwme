@@ -36,7 +36,7 @@ Both count, separately. So a Like never gets mistaken for someone planning to sh
 
 Here's how that plays out. You spot a Thursday happy hour that might work. Like it. It's on your list now, and nobody thinks you've committed. Thursday morning you know you can make it? Click **Going**.
 
-Say Going and you get a little celebration: a burst of confetti and a line naming the friends who are going too. Nobody yet? It says "Don't go it alone! Invite some friends." Not a confetti person? Check **Reduce motion** in Settings → Account to skip confetti and other animations.
+Going also Likes the event, so on its page the button reads **✓ Going · Liked**. Say Going and you get a little celebration: a burst of confetti and a line naming the friends who are going too. Nobody yet? It says "Don't go it alone! Invite some friends." Not a confetti person? Check **Reduce motion** in Settings → Account to skip confetti and other animations.
 
 Holidays show up in the River as a date to note. You can Like or share one, but there's no Going button.
 
