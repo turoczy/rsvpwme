@@ -17,7 +17,7 @@ Say a friend texts you a Meetup link for a Thursday night meetup that isn't on t
 - Can't read the page? You'll see **Couldn't add this event** with the reason. Click **Add it manually** and type it in yourself. Only the title and start time are required.
 - Facebook and LinkedIn events don't work by pasting. We don't open those pages. Open the event in your browser and use the bookmarklet below.
 
-Sometimes an event shows as **Pending** for a bit. We're double checking to make sure this event isn't a duplicate. Once added, you'll be listed among the folks who like this event. If it's already here, we add you to it instead.
+Sometimes an event shows as **Pending** for a bit. We're double checking to make sure this event isn't a duplicate. Once added, it'll be in your Likes. If it's already here, we add you to it instead, and it's in your Likes too.
 
 ## The bookmarklet
 
