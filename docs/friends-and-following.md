@@ -63,7 +63,7 @@ From there it's ordinary friending. Each of them can **Follow** the other (a fol
 The rules, so it stays a nice thing:
 
 - **Only your friends.** Both people have to be your friends already: you follow each other. You can't introduce someone you only follow, or a stranger.
-- **Once per pair, ever.** If someone else already introduced those two, yours doesn't go through. You won't be told.
+- **Once per pair, ever.** If someone else already introduced those two, yours doesn't go through. You won't be told, and it won't show up in your [data download](help.md) either. It still counts toward your 10 for the day.
 - **A few a day.** Up to 10 introductions a day. Each person gets at most 20 a month, and at most 5 a month from any one friend.
 - **It just doesn't happen when it shouldn't.** No note goes out if either person is Anonymous, is hidden from people search, has turned introductions off, or has blocked or muted the other (or you). Same if they already follow each other. Either way, you see the same "Sent."
 
