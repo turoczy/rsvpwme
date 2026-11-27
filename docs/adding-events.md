@@ -23,7 +23,7 @@ Sometimes an event shows as **Pending** for a bit. We're double checking to make
 
 Paid accounts get a button for adding events from just about any event site.
 
-1. On **My events**, find **Add events from anywhere**.
+1. On **My events**, find **Add events from anywhere** and click it to open it. (It starts closed; click the heading again to close it.)
 2. Drag the **🗓️ Add to RSVP** button to your browser's bookmarks bar. It runs from there, not from the My events page. Clicking it there shows a how-to instead.
 3. On any event page (Luma, Eventbrite, Meetup, Calagator), click it. You get the same **Check the details** page, then **Add to RSVP w/ me**.
 
