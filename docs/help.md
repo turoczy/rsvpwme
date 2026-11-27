@@ -34,7 +34,7 @@ Go to Settings and use **Delete account**, in the Danger zone at the bottom. You
 ### Email
 
 **How do I stop the weekly email?**
-Settings → Calendar & email. Uncheck **Weekly email** and click **Save**. Or use the unsubscribe link in any of them.
+Settings → Calendar & email. Uncheck **Weekly email** and click **Save** in the bar at the bottom. Or use the unsubscribe link in any of them.
 
 **The weekly email isn't showing up.**
 Check your spam folder. Then add our sending address to your contacts, so it lands in your inbox. Settings → Calendar & email shows the address, with a link to add it.

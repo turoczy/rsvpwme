@@ -59,10 +59,10 @@ Anonymous accounts don't get friend invites, so on an Anonymous account it's rem
 
 It's two steps, and they're separate on purpose. The kinds are for your account. The device is, well, the device.
 
-1. Go to Settings → Notifications. Check **Friend invites**, **Day-before reminders**, or both.
+1. Go to Settings → Notifications. Check **Friend invites**, **Day-before reminders**, or both, then hit **Save** in the bar at the bottom.
 2. On each phone or computer you want buzzed, tap **Turn on for this device**. Your browser asks if RSVP w/ me can send notifications. Say yes.
 
-(Checked the boxes but forgot to hit **Save**? Turning on the device saves them for you.)
+(Turning on the device doesn't save the boxes. If the bar still says you have unsaved changes, hit **Save**.)
 
 If nothing's checked, Settings says so: "Nothing above is switched on yet, so no notifications will arrive on any device." A device can be on and still get nothing until you check a box.
 
