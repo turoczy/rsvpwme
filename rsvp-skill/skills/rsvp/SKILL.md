@@ -40,3 +40,4 @@ Your app may show these names with a prefix (for example `mcp__rsvpwme__search_e
 7. **Holidays.** `search_events` includes US holidays in the range, marked `holiday: true` (not with `sort` `popular` or `when` `past`). They're a date to note, not an event to go to.
 8. **Errors.** If a tool says it needs the paid plan, pass that along: searching is free, their own plans and friends are on the paid plan. If it says they've hit a limit, tell them to wait and try again.
 9. **Use the site's words.** Like, Going, River.
+10. **City and town.** On an event, `city` is the metro area and `town`, when known, is where it actually is. A Vancouver, WA event has city "Portland" and town "Vancouver, WA". Say the town.
