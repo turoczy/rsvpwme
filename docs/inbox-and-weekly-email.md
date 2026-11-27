@@ -28,6 +28,7 @@ A short note on Sunday night: your week ahead (Monday through Sunday), plus what
 - What's waiting in your Inbox, if anything: a count of follow requests, of followers you haven't followed back yet, and of introductions from friends. Just counts. No names.
 - Your friends' picks: things your friends are going to this week that you haven't Liked or said you're Going to yet. On a paid account, also the ones they Liked, and your close friends' picks come first.
 - Events you're Going to this week, and events you Liked, with which friends are coming along.
+- Events you added that are coming up, if you've added any.
 
 Each section shows up to 3 events, then a link to the rest on the site. Nothing on your list this week? It still comes, and says your week is wide open.
 
