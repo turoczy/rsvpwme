@@ -54,7 +54,7 @@ Know two people who should know each other? Introduce them.
 
 Introducing is part of a paid account. Being introduced is free for everyone.
 
-Tap the **Connect dots** button (the small one with two checkmarks). It's next to **All friends →** under **Your Top 8 friends** on My events, and on a friend's page. A window opens with two boxes, **Who?** and **should meet…**. Type @ and a friend's name or @handle in each, then pick them from the suggestions. One friend per box. Someone you picked in one box isn't offered in the other, and if they're your only match you'll see "Already picked in the other box." Only friends you can introduce show up. **Introduce them** turns on once both boxes are filled. Both of them get a note on the Invites tab of their [Inbox](inbox-and-weekly-email.md):
+Tap the **Connect dots** button (the small one with two checkmarks). It's next to **All friends →** under **Your Top 8 friends** on My events, and on a friend's page. It shows up once you have two friends. (On a free account the button takes you to the upgrade page.) A window opens with two boxes, **Who?** and **should meet…**. Type @ and a friend's name or @handle in each, then pick them from the suggestions. One friend per box. Someone you picked in one box isn't offered in the other, and if they're your only match you'll see "Already picked in the other box." Only friends you can introduce show up. **Introduce them** turns on once both boxes are filled. Both of them get a note on the Invites tab of their [Inbox](inbox-and-weekly-email.md):
 
 > Stephen Green (@stephen) thought that you might want to connect with Ann Lee. No obligation. Just working to connect dots in the community.
 
