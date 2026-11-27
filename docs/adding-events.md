@@ -12,7 +12,7 @@ Say a friend texts you a Meetup link for a Thursday night meetup that isn't on t
 
 - Adding an event Likes it for you, so it lands on your list.
 - Events you add are public on RSVP w/ me. They show up for everyone, like any other listing. Your name isn't shown publicly as the person who added it.
-- One event at a time. Paste a page that lists several events and we'll say "That page lists 6 events. Open the one you want and paste its link."
+- One event at a time. Paste a page that lists several events and we'll say "That page has several events. Paste a link to just one of them."
 - Already have it? You'll see **We've already got that one** with a **Go to event** button. Like it or say Going from there.
 - Can't read the page? You'll see **Couldn't add this event** with the reason. Click **Add it manually** and type it in yourself. Only the title and start time are required.
 - Facebook and LinkedIn events don't work by pasting. We don't open those pages. Open the event in your browser and use the bookmarklet below.
