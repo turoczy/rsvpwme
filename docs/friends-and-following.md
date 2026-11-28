@@ -72,6 +72,14 @@ The rules, so it stays a nice thing:
 
 **Don't want introductions?** Settings → Privacy & people → **Introductions**, uncheck "Friends can introduce me to their friends." Or tap **Turn off introductions** on any introduction in your Inbox. That stops new ones to you, hides any that are waiting, and means nobody can introduce you to anyone else either. Nobody is told you turned it off. Free or paid, anyone can turn it off.
 
+## Following tags (paid)
+
+Tags are the topic chips on an event. Following one is part of a paid account.
+
+- **To follow:** hit **Follow #tag** on a tag's page on the River, or the small **+** next to a tag chip on an event's page. A free account that tries lands on the upgrade page.
+- **To see or undo them:** Settings → Privacy & people → **Tags you follow**. Click the ✕ to unfollow. Unfollowing always works.
+- Your AI can see which tags you follow. See [Connect your AI](connect-your-ai.md).
+
 ## Paid check
 
 A small check by someone's name means they have a paid account. It supports RSVP w/ me. It's not an identity check.

@@ -44,6 +44,8 @@ Settings → Profile has a few optional extras:
 - **Event sites.** Add your Luma, Eventbrite, Meetup or Partiful handle. They show on your profile, and we use them to smooth the handoff when you register on those sites.
 - **Social links.** Just give us your handle. Each one shows as a link on your profile.
 
+Who sees them: on a Public page, anyone. On a Private page, you and the followers you've approved. A stranger there gets only your name, photo, @handle and follower counts. No bio, pronouns, city, join date or links. On an Anonymous account, even a mutual friend sees only your name and @handle.
+
 ## Who can see what I'm going to?
 
 On a free account, your friends can see your name next to events you Like or mark Going. (Remember, you're friends when you mutually follow one another.) Everyone else sees only the counts. Not who you are.
