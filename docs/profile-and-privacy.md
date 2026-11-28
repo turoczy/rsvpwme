@@ -32,6 +32,18 @@ A page anyone can see. The events you're going to are public. And search engines
 
 A free account can't pick Public. If it switches back from Anonymous, it comes back as Private.
 
+Already Private and paid, with follow requests waiting? Switching to Public approves them all. You get a "Continue?" check first.
+
+## Your profile details
+
+Settings → Profile has a few optional extras:
+
+- **Display name.** Leave it blank and we use your Google name. Set one and Google's name stops overwriting it when you sign in.
+- **Pronouns** show next to your name.
+- **Bio** is up to 500 characters.
+- **Event sites.** Add your Luma, Eventbrite, Meetup or Partiful handle. They show on your profile, and we use them to smooth the handoff when you register on those sites.
+- **Social links.** Just give us your handle. Each one shows as a link on your profile.
+
 ## Who can see what I'm going to?
 
 On a free account, your friends can see your name next to events you Like or mark Going. (Remember, you're friends when you mutually follow one another.) Everyone else sees only the counts. Not who you are.

@@ -42,7 +42,7 @@ Check your spam folder. Then add our sending address to your contacts, so it lan
 ### Notifications
 
 **Can RSVP w/ me buzz my phone?**
-On a paid account, yes: friend invites and day-before reminders (reminders only on an Anonymous account), not sent between 10pm and 8am your time. Settings → Notifications, or **Turn on notifications** on your Inbox's Invites tab. On iPhone, sign in in Safari, then add RSVP w/ me to your Home Screen first. See [Notifications](inbox-and-weekly-email.md#notifications).
+On a paid account, yes: friend invites and day-before reminders (reminders only on an Anonymous account), not sent between 10pm and 8am your time. Settings → Calendar & email → Notifications, or **Turn on notifications** on your Inbox's Invites tab. On iPhone, sign in in Safari, then add RSVP w/ me to your Home Screen first. See [Notifications](inbox-and-weekly-email.md#notifications).
 
 **A notification button said something I don't understand.**
 Every message and what to do about it is [here](inbox-and-weekly-email.md#what-the-buttons-might-say).
@@ -62,7 +62,7 @@ Public is part of the paid plan. Free accounts can be Private or Anonymous. See 
 No. Follow them if you'd like to, or tap **Not now**. Your friend isn't told either way. See [Connect dots](friends-and-following.md#connect-dots).
 
 **How do I stop introductions?**
-Settings → **Introductions**, or **Turn off introductions** on any one in your Inbox. Nobody is told.
+Settings → Privacy & people → **Introductions**, or **Turn off introductions** on any one in your Inbox. Nobody is told.
 
 **Is the paid plan a subscription?**
 No. It's $9.99 + tax, one time. See [Free vs paid](free-vs-paid.md).

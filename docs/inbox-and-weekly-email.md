@@ -2,7 +2,7 @@
 
 ## The Inbox
 
-Invites, follow requests, and anything else that needs you. Click **Inbox** at the top of the page. When something's waiting on you, a number shows next to it (1 to 9, then 9+) and the button gets a magenta outline. It counts follow requests, invites and introductions waiting on an answer, plus unread notifications. Nothing waiting, no number and no outline. It has three tabs: All · Invites · Notifications.
+Invites, follow requests, and anything else that needs you. Click **Inbox** at the top of the page. When something's waiting on you, a number shows on its corner (1 to 9, then 9+) and, when you're not already on the Inbox, the button gets a magenta outline. It counts follow requests, invites and introductions waiting on an answer, plus unread notifications. Nothing waiting, no number and no outline. It has three tabs: All · Invites · Notifications.
 
 - **All**: everything waiting on you (invites, follow requests and introductions).
 - **Invites**: everything someone has asked of you, in one list:
@@ -59,7 +59,7 @@ Anonymous accounts don't get friend invites, so on an Anonymous account it's rem
 
 It's two steps, and they're separate on purpose. The kinds are for your account. The device is, well, the device.
 
-1. Go to Settings → Notifications. Check **Friend invites**, **Day-before reminders**, or both, then hit **Save** in the bar at the bottom.
+1. Go to Settings → Calendar & email → Notifications. Check **Friend invites**, **Day-before reminders**, or both, then hit **Save** in the bar at the bottom.
 2. On each phone or computer you want buzzed, tap **Turn on for this device**. Your browser asks if RSVP w/ me can send notifications. Say yes.
 
 (Turning on the device doesn't save the boxes. If the bar still says you have unsaved changes, hit **Save**.)
@@ -79,7 +79,7 @@ On iPhone or iPad, notifications only work from the Home Screen. (Apple's rule, 
 1. In Safari, sign in first. (Add it while you're signed out and you get a plain shortcut that opens in Safari, where notifications can't work. If that happened, delete the icon and add it again while signed in.)
 2. Tap Share, then **Add to Home Screen**. Leave **Open as Web App** switched on.
 3. Open RSVP w/ me from the new icon on your Home Screen, not from Safari, and sign in again.
-4. Settings → Notifications → **Turn on for this device**, then **Allow**.
+4. Settings → Calendar & email → Notifications → **Turn on for this device**, then **Allow**.
 
 Opened from your Home Screen, RSVP w/ me runs without the address bar. That's normal.
 

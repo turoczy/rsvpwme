@@ -70,7 +70,7 @@ The rules, so it stays a nice thing:
 - **A few a day.** Up to 10 introductions a day. Each person gets at most 20 a month, and at most 5 a month from any one friend.
 - **It just doesn't happen when it shouldn't.** No note goes out if either person is Anonymous, is hidden from people search, has turned introductions off, or has blocked or muted the other (or you). Same if either already follows the other, or has asked to. Either way, you see the same "Sent."
 
-**Don't want introductions?** Settings → **Introductions**, uncheck "Friends can introduce me to their friends." Or tap **Turn off introductions** on any introduction in your Inbox. That stops new ones to you, hides any that are waiting, and means nobody can introduce you to anyone else either. Nobody is told you turned it off. Free or paid, anyone can turn it off.
+**Don't want introductions?** Settings → Privacy & people → **Introductions**, uncheck "Friends can introduce me to their friends." Or tap **Turn off introductions** on any introduction in your Inbox. That stops new ones to you, hides any that are waiting, and means nobody can introduce you to anyone else either. Nobody is told you turned it off. Free or paid, anyone can turn it off.
 
 ## Paid check
 

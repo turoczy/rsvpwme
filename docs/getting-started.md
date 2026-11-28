@@ -18,7 +18,7 @@ The weekly email is on unless you uncheck it. It lands Sunday night: your week a
 
 The top of the page has three links once you're signed in:
 
-- **River**: every public event from the calendars we keep an eye on. Soonest first. Tabs narrow it down: Everything, Friends going, Next 7 days, Free and Online.
+- **River**: every public event from the calendars we keep an eye on. Soonest first. Tabs narrow it down: Everything, Friends going, Next 7 days, Free and Online. (Online isn't on a city's own page.)
 - **My events**: your own page. Only you can see it. It shows what your friends are going to, what you've picked, and your past events.
 - **Inbox**: invites, follow requests, and anything else that needs you.
 
