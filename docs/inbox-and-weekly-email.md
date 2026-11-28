@@ -2,7 +2,7 @@
 
 ## The Inbox
 
-Invites, follow requests, and anything else that needs you. Click **Inbox** at the top of the page. A dot next to it means something's new. It has three tabs: All · Invites · Notifications.
+Invites, follow requests, and anything else that needs you. Click **Inbox** at the top of the page. When something's waiting on you, a number shows next to it (1 to 9, then 9+) and the button gets a magenta outline. It counts follow requests, invites and introductions waiting on an answer, plus unread notifications. Nothing waiting, no number and no outline. It has three tabs: All · Invites · Notifications.
 
 - **All**: everything waiting on you (invites, follow requests and introductions).
 - **Invites**: everything someone has asked of you, in one list:
